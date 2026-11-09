@@ -10,7 +10,7 @@ redirect_from:
 
 This shield version works only with **Arduino UNO**.<br>
 AYAB **Firmware v0.8** or greater is required for this shield version.
-The main difference to the 1.3TH are the additional 2.0mm Connectors for KH-900 and CK-35
+The main difference to the 1.3TH are the additional 2.0mm Connectors for KH-900, KH-965, KH-270 and CK-35 (pattern control only)
 
 <img src="/assets/shields/1_4.jpg" width="50%">
 
@@ -29,7 +29,7 @@ Helpful documents:
 
 ### Power connector
 
-For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
+For all models except KH-900, KH-965 and KH-270, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
 The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/blob/main/ayab-shield/05_connectors/kh9xx_power.pdf).
 
@@ -66,7 +66,6 @@ Only the power connector (S1) is a pretty special type. As it was not possible t
 |  JP6      |           1 | PSK 254/2W      | Connector for beeper
 |  --       |           1 | PSS 254/2G      | Connector for beeper
 |  --       |           1 | PSK-KONTAKTE    | Contacts for beeper
-|  --       |           1 | SUMMER 6V       | Beeper
 
 #### rs-online.com
 
