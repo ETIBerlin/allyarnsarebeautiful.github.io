@@ -40,7 +40,7 @@ and not available online as far as we know.
 
 The AYAB Shield is not sold directly by us, but there are some people manufacturing and selling them out there. Please double check the Shield version you are buying, so you don't get an old one. The latest version released by us is "1.4TH":
 
-- [redpinkgreen (AYAB Shield)](http://www.redpinkgreen.de)(you can have the shield soldered if you dont want to do it yourself)
+- [redpinkgreen (AYAB Shield)](http://www.redpinkgreen.de) (Soldering service available)
 - … (if you want to show up here, just contact us!)
 
 ## And what about the Software?
