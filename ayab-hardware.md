@@ -34,12 +34,13 @@ Here you can find all necessary information you need (Layout, Schematics, BOM…
 #### AYAB Interface
 
 The AYAB Interface is no longer sold nor manufactured by Evil Mad Scientist Laboratories
+and not available online as far as we know.
 
 #### AYAB Shield
 
 The AYAB Shield is not sold directly by us, but there are some people manufacturing and selling them out there. Please double check the Shield version you are buying, so you don't get an old one. The latest version released by us is "1.4TH":
 
-- [redpinkgreen (AYAB Shield)](http://www.redpinkgreen.de)
+- [redpinkgreen (AYAB Shield)](http://www.redpinkgreen.de)(you can have the shield soldered if you dont want to do it yourself)
 - … (if you want to show up here, just contact us!)
 
 ## And what about the Software?
