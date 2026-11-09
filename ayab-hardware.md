@@ -33,9 +33,7 @@ Here you can find all necessary information you need (Layout, Schematics, BOM…
 
 #### AYAB Interface
 
-The AYAB Interface is no longer sold nor manufactured by Evil Mad Scientist Laboratories.
-
-Updated versions of the AYAB Interface are available from [WoollyLogicKnits](https://www.etsy.com/shop/WoollyLogicKnits).
+The AYAB Interface is no longer sold nor manufactured by Evil Mad Scientist Laboratories
 
 #### AYAB Shield
 
